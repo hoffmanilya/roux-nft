@@ -1,0 +1,27 @@
+{
+    "name": "Roll Over",
+    "description": "Roll Over Beethoven.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTTrbS6kXeMmg9pq7GR4fjACBeu3YBX9dsZNuAcYSAzSw",
+    "attributes": [
+        {
+            "trait_type": "Difficulty",
+            "value": "Medium"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Trick Date",
+            "value": 1621969190
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Practice Count",
+            "value": 315
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Hunger Level",
+            "value": 10,
+            "max_value": 10
+        }
+    ]
+}

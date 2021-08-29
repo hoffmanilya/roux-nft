@@ -1,0 +1,27 @@
+{
+    "name": "Play Dead",
+    "description": "Rupert will do anything for a treat. Even pretend to die.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVgVrqHecjRTdsxMMPhWz648CXw6N9827WG2PdaT7q3oU",
+    "attributes": [
+        {
+            "trait_type": "Difficulty",
+            "value": "Hard"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Trick Date",
+            "value": 1578938390
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Practice Count",
+            "value": 285
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Hunger Level",
+            "value": 10,
+            "max_value": 10
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Paw",
+    "description": "Put er there!",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcQhdhRJUjKE7tUKoVAwAbcXW3V36USc7W2GwMjcLBxWy",
+    "attributes": [
+        {
+            "trait_type": "Difficulty",
+            "value": "Medium"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Trick Date",
+            "value": 1582912790
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Practice Count",
+            "value": 175
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Hunger Level",
+            "value": 10,
+            "max_value": 10
+        }
+    ]
+}

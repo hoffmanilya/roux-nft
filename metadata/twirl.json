@@ -1,0 +1,27 @@
+{
+    "name": "Twirl",
+    "description": "Hold me closer, tiny dancer.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qma66DT8LVng9s3At2HXTLcT2R6sfWB3w2Yd67YKwZ7aDr",
+    "attributes": [
+        {
+            "trait_type": "Difficulty",
+            "value": "Hard"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Trick Date",
+            "value": 1567011590
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Practice Count",
+            "value": 68
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Hunger Level",
+            "value": 10,
+            "max_value": 10
+        }
+    ]
+}

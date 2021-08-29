@@ -1,0 +1,27 @@
+{
+    "name": "Down",
+    "description": "Rupert's rendition of the oldest trick in the book.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRCAPkzVALbeWNTihpweuarQQfTKgTWiPEubEbFevRmsa",
+    "attributes": [
+        {
+            "trait_type": "Difficulty",
+            "value": "Easy"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Trick Date",
+            "value": 1630274391
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Practice Count",
+            "value": 200
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Hunger Level",
+            "value": 10,
+            "max_value": 10
+        }
+    ]
+}
